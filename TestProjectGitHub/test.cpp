@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 
-	cout << "hello from my pc !";
+	cout << "hello from my pc !!";
 
 	cin.get();
 	return 0;
